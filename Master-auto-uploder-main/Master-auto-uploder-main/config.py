@@ -9,6 +9,6 @@ class Config(object):
     API_HASH = "9302f4459aeb7b39689fe256b6647c3d"
     ADMIN_ID = 7986492544
     DB_URL = "mongodb+srv://alokjangde6: Sapnaipali71$@cluster0.cx60pkr.mongodb.net/"
-    LOG_CHANNEL = "-1004374834303" # Your Log Channel ID (Bot ko ADMIN BNAYE)
+    LOG_CHANNEL = "-1004358968382" # Your Log Channel ID (Bot ko ADMIN BNAYE)
     USERLINK = "http://t.me/masterautouploader_bot"
     
